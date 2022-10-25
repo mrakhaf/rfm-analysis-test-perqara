@@ -1,0 +1,1 @@
+Load Data to rfm dataframe -> Input Data -> Append to dataframe and save -> process data -> Summarize RFM new data -> Visualize Data
